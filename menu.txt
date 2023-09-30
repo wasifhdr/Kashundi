@@ -1,0 +1,27 @@
+13
+Classic Chicken Burger
+130
+BBQ Chicken Burger
+160
+Cheese Chicken Burger
+150
+Classic Beef Burger
+150
+BBQ Beef Burger
+190
+Cheesy Chicken Pizza
+250
+Special Pizza
+300
+Chicken Shwarma
+100
+Special Thai Soup
+110
+French Fries
+80
+Sizzling Chicken
+250
+Milk Tea
+10
+Coffee
+20
